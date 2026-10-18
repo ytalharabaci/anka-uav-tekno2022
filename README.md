@@ -145,6 +145,3 @@ Document block diagrams showing inputs, sensors, actuators, autopilot, mission m
 
 ### Component selection
 List and justify choices for motor, ESC, battery, servos, flight controller board, GPS module, telemetry radio, and structural materials. Include supplier part numbers, cost estimates, and any test results.
-
-
-
